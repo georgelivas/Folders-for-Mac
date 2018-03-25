@@ -10,9 +10,27 @@ A collection of folder icons with stamps from many apps for Mac.
 
 # Available icons
 
+## IDEs
+
+* Arduino
+* AppCode
+* Atom
+* CLion
+* NetBeans
+* Processing 3
+* PyCharm
+* Virtual Studio Code
+* Virtual Studio 
+* WebStorm
+* Xcode
+
+## Programming Languages
+* JSON
+* Kotlin
+* Spring
+* 
 
 # Sources
-
 |      App     |  Link  |
 | :----------: | ------ |
 | Arduino      | ![arduino](./arduinofolder.icns)|
