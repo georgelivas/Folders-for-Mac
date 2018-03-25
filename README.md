@@ -28,11 +28,10 @@ A collection of folder icons with stamps from many apps for Mac.
 * JSON
 * Kotlin
 * Spring
-* 
 
 # Sources
 |      App     |  Link  |
-| :----------: | ------ |
+| :---------- | ------ |
 | Arduino      | ![arduino](./arduinofolder.icns)|
 | Anaconda App |  |
 | Anaconda     |  |
