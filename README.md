@@ -9,6 +9,30 @@ A collection of folder icons with stamps from many apps for Mac.
 5. Drag and drop the icon from the repository over the folder icon on the top left corner of the ```Get Info``` window.
 
 # Available icons
-|   App   |   Icon     |  Link  |
-| ------- |------ | ----|
-| Arduino | ![arduino](./arduinofolder.icns)
+
+
+# Sources
+
+|      App     |  Link  |
+| :----------: | ------ |
+| Arduino      | ![arduino](./arduinofolder.icns)|
+| Anaconda App |  |
+| Anaconda     |  |
+| AppCode      |  |
+| Atom         |  |
+| CLion        |  |
+| Docker       |  |
+| DropBox      |  |
+| GitLab       |  |
+| GitHub       |  |
+| JSON         |  |
+| Kotlin       |  |
+| NetBeans     |  |
+| Processing   |  |
+| PyCharm      |  |
+| Spring       |  |
+| VirtualBox   |  |
+| Visual Studio Code|  |
+| Visual Studio|  |
+| WebStorm     |  |
+| Xcode        |  |
