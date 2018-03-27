@@ -58,4 +58,4 @@ A collection of folder icons with stamps from many apps for Mac.
 > I claim right of the composition NOT of the logos. All rights reserved by the brands.
 
 # Licence
-This project is licensed under the MICreative Commons Attribution Share Alike 4.0 License - see the [LICENSE](./licence.md) file for details. Some rights reserved.
+This project is licensed under the Creative Commons Attribution Share Alike 4.0 License - see the [LICENSE](./licence.md) file for details. Some rights reserved.
