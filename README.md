@@ -53,3 +53,9 @@ A collection of folder icons with stamps from many apps for Mac.
 | Visual Studio|  |
 | WebStorm     |  |
 | Xcode        |  |
+
+# Acknowledgement
+> I claim right of the composition NOT of the logos. All right reserved by the barnds.
+
+# Licence
+This project is licensed under the MICreative Commons Attribution Share Alike 4.0 License - see the [LICENSE](./licence.md) file for details. Some rights reserved.
