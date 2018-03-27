@@ -10,7 +10,7 @@ A collection of folder icons with stamps from many apps for Mac.
 
 # Available icons
 
-## IDEs
+### IDEs
 
 * Arduino
 * AppCode
@@ -24,7 +24,7 @@ A collection of folder icons with stamps from many apps for Mac.
 * WebStorm
 * Xcode
 
-## Programming Languages
+### Programming Languages
 * JSON
 * Kotlin
 * Spring
