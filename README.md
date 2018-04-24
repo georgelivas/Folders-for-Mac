@@ -12,7 +12,8 @@ A collection of folder icons with stamps from many apps for Mac.
 
 ### IDEs
 
-* [Arduino](https://github.com/georgelivas/Folders-for-Mac/tree/master/Icons/Anaconda)
+
+* [Arduino](https://github.com/georgelivas/Folders-for-Mac/tree/master/Icons/Arduino)
 * [AppCode](https://github.com/georgelivas/Folders-for-Mac/tree/master/Icons/AppCode)
 * [Atom](https://github.com/georgelivas/Folders-for-Mac/tree/master/Icons/Atom)
 * [CLion](https://github.com/georgelivas/Folders-for-Mac/tree/master/Icons/CLion)
@@ -26,7 +27,7 @@ A collection of folder icons with stamps from many apps for Mac.
 
 ### Programming Languages
 * [JSON](https://github.com/georgelivas/Folders-for-Mac/tree/master/Icons/JSON)
-* [Kotlin](https://github.com/georgelivas/Folders-for-Mac/tree/master/Icons/JSON)
+* [Kotlin](https://github.com/georgelivas/Folders-for-Mac/tree/master/Icons/Kotlin)
 * [Spring](https://github.com/georgelivas/Folders-for-Mac/tree/master/Icons/Spring)
 
 # Sources
