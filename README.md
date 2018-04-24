@@ -12,7 +12,8 @@ A collection of folder icons with stamps from many apps for Mac.
 
 ### IDEs
 
-
+* [Anaconda](https://github.com/georgelivas/Folders-for-Mac/tree/master/Icons/Anaconda)
+* [Anaconda App](https://github.com/georgelivas/Folders-for-Mac/tree/master/Icons/AnacondaApp)
 * [Arduino](https://github.com/georgelivas/Folders-for-Mac/tree/master/Icons/Arduino)
 * [AppCode](https://github.com/georgelivas/Folders-for-Mac/tree/master/Icons/AppCode)
 * [Atom](https://github.com/georgelivas/Folders-for-Mac/tree/master/Icons/Atom)
