@@ -31,7 +31,18 @@ A collection of folder icons with stamps from many apps for Mac.
 * [Kotlin](https://github.com/georgelivas/Folders-for-Mac/tree/master/Icons/Kotlin)
 * [Spring](https://github.com/georgelivas/Folders-for-Mac/tree/master/Icons/Spring)
 
-# Sources
+### Version Control
+
+* [GitHub](https://github.com/georgelivas/Folders-for-Mac/tree/master/Icons/GitHub)
+* [GitLab](https://github.com/georgelivas/Folders-for-Mac/tree/master/Icons/GitLab)
+
+### Utilities
+
+* [DropBox](https://github.com/georgelivas/Folders-for-Mac/tree/master/Icons/DropBox)
+* [Docker](https://github.com/georgelivas/Folders-for-Mac/tree/master/Icons/Docker)
+* [VirtualBox](https://github.com/georgelivas/Folders-for-Mac/tree/master/Icons/VirtualBox)
+
+<!--# Sources
 |      App     |  Link  |
 | :---------- | ------ |
 | Arduino      | ![arduino](./arduinofolder.icns)|
@@ -56,6 +67,7 @@ A collection of folder icons with stamps from many apps for Mac.
 | WebStorm     |  |
 | Xcode        |  |
 
+-->
 # Acknowledgement
 > I claim right of the composition NOT of the logos. All rights reserved by the brands.
 
