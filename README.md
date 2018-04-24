@@ -12,22 +12,22 @@ A collection of folder icons with stamps from many apps for Mac.
 
 ### IDEs
 
-* Arduino
-* AppCode
-* Atom
-* CLion
-* NetBeans
-* Processing 3
-* PyCharm
-* Virtual Studio Code
-* Virtual Studio 
-* WebStorm
-* Xcode
+* [Arduino](https://github.com/georgelivas/Folders-for-Mac/tree/master/Icons/Anaconda)
+* [AppCode](https://github.com/georgelivas/Folders-for-Mac/tree/master/Icons/AppCode)
+* [Atom](https://github.com/georgelivas/Folders-for-Mac/tree/master/Icons/Atom)
+* [CLion](https://github.com/georgelivas/Folders-for-Mac/tree/master/Icons/CLion)
+* [NetBeans](https://github.com/georgelivas/Folders-for-Mac/tree/master/Icons/NetBeans)
+* [Processing 3](https://github.com/georgelivas/Folders-for-Mac/tree/master/Icons/Processing3)
+* [PyCharm](https://github.com/georgelivas/Folders-for-Mac/tree/master/Icons/PyCharm)
+* [Virtual Studio Code](https://github.com/georgelivas/Folders-for-Mac/tree/master/Icons/VirtualStudioCode)
+* [Virtual Studio](https://github.com/georgelivas/Folders-for-Mac/tree/master/Icons/VirtualStudio)
+* [WebStorm](https://github.com/georgelivas/Folders-for-Mac/tree/master/Icons/WebStorm)
+* [Xcode](https://github.com/georgelivas/Folders-for-Mac/tree/master/Icons/Xcode)
 
 ### Programming Languages
-* JSON
-* Kotlin
-* Spring
+* [JSON](https://github.com/georgelivas/Folders-for-Mac/tree/master/Icons/JSON)
+* [Kotlin](https://github.com/georgelivas/Folders-for-Mac/tree/master/Icons/JSON)
+* [Spring](https://github.com/georgelivas/Folders-for-Mac/tree/master/Icons/Spring)
 
 # Sources
 |      App     |  Link  |
